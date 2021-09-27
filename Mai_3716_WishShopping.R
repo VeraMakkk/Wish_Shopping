@@ -2,7 +2,6 @@
 # 2021Summer Stats 102B Group Project 
 # Dataset: Sales Summer Clothes in E-commerce Wish
 # Yunjing Mai    405543716
-# Mengyu Zhang  105360138
 # Final project submission 
 ################################################
 data <- read.csv("WishProductSummer.csv",header = T)
